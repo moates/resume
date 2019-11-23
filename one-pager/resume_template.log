@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.6.7)  25 SEP 2018 01:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.6.7)  25 SEP 2018 02:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -68,65 +68,27 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen111
 \Gm@layoutvoffset=\dimen112
 \Gm@dimlist=\toks16
-) (./macros.tex
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \newcommand{phone}{111\-111\-1234}
-                                      
-? q
-OK, entering \batchmode...
-! Missing number, treated as zero.
-<to be read again> 
-                   o
-l.1 \newcommand{phone}{111\-111\-1234}
-                                      
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.1 \newcommand{phone}{111\-111\-1234}
-                                      
-Please don't say `\def cs{...}', say `\def\cs{...}'.
-I've inserted an inaccessible control sequence so that your
-definition will be completed without mixing me up too badly.
-You can recover graciously from this error, if you're
-careful; see exercise 27.2 in The TeXbook.
-
-! You already have nine parameters.
-\reserved@a ... \def \expandafter p\reserved@b #10
-                                                  o{
-l.1 \newcommand{phone}{111\-111\-1234}
-                                      
-I'm going to ignore the # sign you just used.
-
 )
 
 LaTeX Warning: Unused global option(s):
     [9pt].
 
- (./resume_template.aux)
+(./resume_template.aux)
 \openout1 = `resume_template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -162,29 +124,26 @@ LaTeX Font Info:    ... okay on input line 35.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 35--35
+Overfull \hbox (30.0pt too wide) in paragraph at lines 34--34
 [] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 35.
+(Font)              <7> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 35.
+(Font)              <5> on input line 34.
 
-Overfull \hbox (17.17943pt too wide) in paragraph at lines 121--127
+Overfull \hbox (17.17943pt too wide) in paragraph at lines 120--126
 [][] 
  []
 
-
-Overfull \vbox (6.86862pt too high) has occurred while \output is active []
-
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ] (./resume_template.aux) ) 
 Here is how much of TeX's memory you used:
- 856 strings out of 492982
- 11597 string characters out of 6134897
- 76477 words of memory out of 5000000
+ 853 strings out of 492982
+ 11569 string characters out of 6134897
+ 76450 words of memory out of 5000000
  4468 multiletter control sequences out of 15000+600000
  5252 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -196,7 +155,7 @@ r10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume_template.pdf (1 page, 97846 bytes).
+Output written on resume_template.pdf (1 page, 97069 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
